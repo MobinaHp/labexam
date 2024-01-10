@@ -2,7 +2,9 @@
 layout: posts
 title: LabExamBlog
 ---
-![labexam image](/assets/images/labexam.png)
+
+![labexam image](/assets/img/labexam.jpg)
+
 ### LabExamBlog
 
 - استفاده از LLMها 
