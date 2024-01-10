@@ -20,7 +20,8 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'Contact', link: '/t'}
+  - {name: 'Calendar', link: '/calendar'}
 
 tagline: >
   Modern Jekyll theme focused on speed performance &amp; SEO best practices
