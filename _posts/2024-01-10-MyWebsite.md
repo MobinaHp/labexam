@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Website My"
+title: "My Website"
 image: /assets/img/mywebsite.png
 ---
 # My Website
 
 Visit my website: [Mobina's Website](http://www.mobinahp.ir/)
 
-![Optional Image](/assets/img/mywebsite.png)
+![Optional Image](labexam/assets/img/mywebsite.png)
 
 ## About My Blog
 
