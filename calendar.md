@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /calendar/
-title: My calendar
+title: Academic Calendar
 tags: [calendar]
 modified: 11-22-2023
 comments: true

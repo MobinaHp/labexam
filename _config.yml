@@ -6,7 +6,7 @@ description: > # Meta description of Homepage
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/labexam" 
-url: "http://www.mobinahp.ir/labexam" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.mobinahp.ir" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
@@ -22,6 +22,7 @@ navigation: # Navigation links
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/t'}
   - {name: 'Calendar', link: '/calendar'}
+  - {name: 'Courses', link: '/courses'}
 
 tagline: >
   Modern Jekyll theme focused on speed performance &amp; SEO best practices
